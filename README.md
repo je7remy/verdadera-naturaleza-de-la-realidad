@@ -1,6 +1,8 @@
 
 ![[Logo 3.png]]
 
+![Verdadera Naturaleza de la Realidad](https://github.com/je7remy/verdadera-naturaleza-de-la-realidad/raw/main/Images/Logo%203.png)
+
 ---
 
 # 🌍 Verdadera Naturaleza de la Realidad
